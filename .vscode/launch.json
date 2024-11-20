@@ -7,8 +7,8 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open INDEX.html",
-            "file": "c:\\Users\\flore\\OneDrive\\Escritorio\\Pagina1\\Clase2\\INDEX.html"
+            "name": "Open index.html",
+            "file": "C:/Users/flore/OneDrive/Documentos/Universidad/cloud-1/index.html"
         }
     ]
 }
